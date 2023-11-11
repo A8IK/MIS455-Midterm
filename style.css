@@ -17,7 +17,7 @@ ul {
   
   li a:hover {
     background-color: rgb(156, 145, 96);
-    
+    transition-duration: 0.5s;
     border-radius: 10px;
   }
 
