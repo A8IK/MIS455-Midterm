@@ -66,3 +66,21 @@ ul {
     border-radius: 5px;
     margin-top:5px;
   }
+
+  .events{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  .kristong{
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .kristong img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+  }
