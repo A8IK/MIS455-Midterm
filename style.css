@@ -84,3 +84,8 @@ ul {
     display: block;
     border-radius: 8px;
   }
+
+  .cover img{
+    height: 320px;
+    width: 100%;
+  }
